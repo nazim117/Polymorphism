@@ -1,0 +1,15 @@
+C:\SoftUni-OOP\MathOperation\MathOperation\bin\Debug\net6.0\MathOperation.exe
+C:\SoftUni-OOP\MathOperation\MathOperation\bin\Debug\net6.0\MathOperation.deps.json
+C:\SoftUni-OOP\MathOperation\MathOperation\bin\Debug\net6.0\MathOperation.runtimeconfig.json
+C:\SoftUni-OOP\MathOperation\MathOperation\bin\Debug\net6.0\MathOperation.dll
+C:\SoftUni-OOP\MathOperation\MathOperation\bin\Debug\net6.0\MathOperation.pdb
+C:\SoftUni-OOP\MathOperation\MathOperation\obj\Debug\net6.0\MathOperation.csproj.AssemblyReference.cache
+C:\SoftUni-OOP\MathOperation\MathOperation\obj\Debug\net6.0\MathOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni-OOP\MathOperation\MathOperation\obj\Debug\net6.0\MathOperation.AssemblyInfoInputs.cache
+C:\SoftUni-OOP\MathOperation\MathOperation\obj\Debug\net6.0\MathOperation.AssemblyInfo.cs
+C:\SoftUni-OOP\MathOperation\MathOperation\obj\Debug\net6.0\MathOperation.csproj.CoreCompileInputs.cache
+C:\SoftUni-OOP\MathOperation\MathOperation\obj\Debug\net6.0\MathOperation.dll
+C:\SoftUni-OOP\MathOperation\MathOperation\obj\Debug\net6.0\refint\MathOperation.dll
+C:\SoftUni-OOP\MathOperation\MathOperation\obj\Debug\net6.0\MathOperation.pdb
+C:\SoftUni-OOP\MathOperation\MathOperation\obj\Debug\net6.0\MathOperation.genruntimeconfig.cache
+C:\SoftUni-OOP\MathOperation\MathOperation\obj\Debug\net6.0\ref\MathOperation.dll

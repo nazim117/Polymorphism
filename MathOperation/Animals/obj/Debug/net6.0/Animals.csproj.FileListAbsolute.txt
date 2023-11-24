@@ -1,0 +1,15 @@
+C:\SoftUni-OOP\MathOperation\Animals\bin\Debug\net6.0\Animals.exe
+C:\SoftUni-OOP\MathOperation\Animals\bin\Debug\net6.0\Animals.deps.json
+C:\SoftUni-OOP\MathOperation\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+C:\SoftUni-OOP\MathOperation\Animals\bin\Debug\net6.0\Animals.dll
+C:\SoftUni-OOP\MathOperation\Animals\bin\Debug\net6.0\Animals.pdb
+C:\SoftUni-OOP\MathOperation\Animals\obj\Debug\net6.0\Animals.csproj.AssemblyReference.cache
+C:\SoftUni-OOP\MathOperation\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni-OOP\MathOperation\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+C:\SoftUni-OOP\MathOperation\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+C:\SoftUni-OOP\MathOperation\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+C:\SoftUni-OOP\MathOperation\Animals\obj\Debug\net6.0\Animals.dll
+C:\SoftUni-OOP\MathOperation\Animals\obj\Debug\net6.0\refint\Animals.dll
+C:\SoftUni-OOP\MathOperation\Animals\obj\Debug\net6.0\Animals.pdb
+C:\SoftUni-OOP\MathOperation\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+C:\SoftUni-OOP\MathOperation\Animals\obj\Debug\net6.0\ref\Animals.dll

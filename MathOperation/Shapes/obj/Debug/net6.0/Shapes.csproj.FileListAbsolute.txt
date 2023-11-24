@@ -1,0 +1,15 @@
+C:\SoftUni-OOP\MathOperation\Shapes\bin\Debug\net6.0\Shapes.exe
+C:\SoftUni-OOP\MathOperation\Shapes\bin\Debug\net6.0\Shapes.deps.json
+C:\SoftUni-OOP\MathOperation\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+C:\SoftUni-OOP\MathOperation\Shapes\bin\Debug\net6.0\Shapes.dll
+C:\SoftUni-OOP\MathOperation\Shapes\bin\Debug\net6.0\Shapes.pdb
+C:\SoftUni-OOP\MathOperation\Shapes\obj\Debug\net6.0\Shapes.csproj.AssemblyReference.cache
+C:\SoftUni-OOP\MathOperation\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni-OOP\MathOperation\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+C:\SoftUni-OOP\MathOperation\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+C:\SoftUni-OOP\MathOperation\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+C:\SoftUni-OOP\MathOperation\Shapes\obj\Debug\net6.0\Shapes.dll
+C:\SoftUni-OOP\MathOperation\Shapes\obj\Debug\net6.0\refint\Shapes.dll
+C:\SoftUni-OOP\MathOperation\Shapes\obj\Debug\net6.0\Shapes.pdb
+C:\SoftUni-OOP\MathOperation\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+C:\SoftUni-OOP\MathOperation\Shapes\obj\Debug\net6.0\ref\Shapes.dll
